@@ -120,7 +120,7 @@ Replace the placeholder values with your actual Appwrite credentials. You can ob
 
 **Running the Project**
 
-git clone https://github.com/DeenRamah/primetcheeapp
+git clone https://github.com/01Deen/healthmgmtsystem
 
 ```bash
 npm run dev
