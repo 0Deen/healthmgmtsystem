@@ -41,6 +41,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 - ShadCN
 - Twilio
 
+.............
 ## <a name="features">🔋 Features</a>
 
 👉 **Register as a Patient**: Users can sign up and create a personal profile as a patient.
